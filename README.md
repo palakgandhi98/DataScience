@@ -7,3 +7,4 @@
 3. [HerokuAccount](https://heroku.com)
 4. [VSCodeIDE](https://code.visualstudio.com/)
 5. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+6. [Colabb](https://colab.research.google.com/)
